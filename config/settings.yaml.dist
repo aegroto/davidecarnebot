@@ -1,0 +1,35 @@
+token: "__REPLACE__"
+
+random_reply_chance: 0.02
+
+message_triggers: {
+  "cute": [
+    "amore", "tesoro", "picci", "gattini", "cuccioli"
+  ],
+
+  "princess": [
+    "burp", "rutto"
+  ],
+
+  "donzelle": [
+    "usciamo", "esco", "vado"
+  ],
+}
+
+trigger_replies: {
+  "random": [
+    "*imita Catalano a caso*", "*cita Giorgio Buzzanca a caso*", "*manda GIF 'I still fall for her everyday.'*"
+  ],
+
+  "cute": [
+    "Ddddddhhh...", "Ddddhh!", "DDDDDDDDDDDDHHHHH!", "AAAAAAAAAAAAAAAAAhhhh..."
+  ],
+
+  "princess": [
+    "Ma sei una principessa!"
+  ],
+
+  "donzelle": [
+    "Non conquistare troppe donzelle", "Non conquistare troppi donzelli"
+  ],
+}
